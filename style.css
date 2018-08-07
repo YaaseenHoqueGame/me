@@ -1,0 +1,12 @@
+body {
+	background-color:yellow;
+	font-family:Arial;
+	color:red;
+	text-align:center;
+}
+.crazy {
+	padding:2px;
+	margin:5px;
+	height: 25px;
+	width: 6px;
+}
